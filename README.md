@@ -1,1 +1,1 @@
-# CodeAlpha_Java_Programming_task1
+# Java_Programming_task1
